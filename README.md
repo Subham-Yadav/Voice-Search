@@ -2,9 +2,9 @@
 Voice search using speech_recognition module.
 
 Modules used in this project are:
-tkinter
-playsound
-webbrowser
+tkinter, 
+playsound, 
+webbrowser, 
 speech_recognition
 
 3 separate python files are created for different types of implementation.
