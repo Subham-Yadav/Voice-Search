@@ -2,8 +2,6 @@ from tkinter import *
 from playsound import playsound
 import webbrowser
 import speech_recognition as sr
-chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
-webbrowser.get(chrome_path).open_new(' ')
 
 def recordVo():
     global e
